@@ -1,0 +1,16 @@
+保护好我们的"星星"（一）
+——BIOS篇
+同学们，在上一期的《PCC Explorer》中，我讲过如何解决密码遗忘问题。不少同学都对我抱怨说，从此我的密码就不再安全。所以从这一期开始，我将和大家谈谈在信息时代。如何做好保护措施，保护好我们的私隐。我们将从最根本的BIOS，DOS到WINDOWS，再到一些软件及网络安全。由多角度剖析系统安全。
+要固"国防"要从最根本的BIOS开始。在这里，既是唯一，又是最有效的就是尽可能地升级你的BIOS，减少用"dirrid、eBBB、h996、wantqirl、589589、p
+* 、 Syxz、 coms 、 password 、966、 Award 、
+AWORP_SW"等一系列的万能码破解。可以到主板广告的网站上下载或向经销商请求帮助，得到不可执行文件，在纯DOS环境下运行即可。重启，在开机时按下"DEL"到"PASSWORD
+SETTING"中设置的进入"BOIS FEATVRES SETUP/SECWRITY O
+T"开机密码，选择"SYSTEM"；再到"BIOS FEATURES SETUP /BOOT
+SEQUENCE"中，把系统引导顺序改为"CDNLY"按"F10"或选择"SAVE — EXIT
+SETVP"来存入并退出即可。用手提电脑的朋友应在SECURITY中设置下面几项："SET SUPERVISOR
+PASSWORD"（管理员口令），"PASSWORD ON BOOT"（口令开机），"POWER MARAGEMENT
+SECURITY"（挂起恢复口令）及选择性地设置"DISDETTE
+ACCESS"（软盘写限制）来防止非法用户用软盘"抄"走你的数据"SUPERVISOR"为写入时需口令"USER"任何人可以写入，"DISABLED"（全要禁止写入软盘）。再把"MAIN/BOOT
+SEQUENLE"设为"ONLY C："（注：有些笔记本电脑没有"ONLY C："的选项，可跳过此步。然后到"EXIT"中选择"EXIT
+SAVING CHANGES"即可。）
+相信经过这些设置，你的BIOS已经很安全了。在下一期中，我将和大家谈谈如何对DOS与WINDOWS进行一些巧妙的设置来保护我们的"星星"。
